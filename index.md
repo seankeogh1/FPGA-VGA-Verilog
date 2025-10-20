@@ -13,7 +13,7 @@ displayed multiple colours at once in columns on the scren.
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 To setup this project I included the test bench and the source files given to us by our lecturer. For the first exercise I had to update the clock
 
-<img src= "https://github.com/seankeogh1/FPGA-VGA-Verilog/blob/main/docs/assets/images/CodeChanged.png">
+<img src= "https://raw.githubusercontent.com/seankeogh1/FPGA-VGA-Verilog/blob/main/docs/assets/images/CodeChanged.png">
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### **Simulation**
