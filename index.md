@@ -14,7 +14,7 @@ Summarise the project set-up and design flow. Include a screenshot of your own s
 To setup this project I included the test bench and the source files given to us by our lecturer. For the first exercise I had to update the clock
 
 
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
+<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/CodeChange.png">
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### **Simulation**
