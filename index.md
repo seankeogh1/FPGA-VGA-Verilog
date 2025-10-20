@@ -5,12 +5,14 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-For thid project I made the VGA port display colours on the screen. I started by adding the code that switched from dingle colours at intervals on the screen to then the colour stripes which 
+For this project, I made the VGA port display colours on the screen. I started by adding the code that switched from dingle colours at intervals on the screen to then the colour stripes which 
 displayed multiple colours at once in columns on the scren.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
+To setup this project I included the test bench and the source files given to us by our lecturer. For the first exercise I had to update the clock
+
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
 ### **Template Code**
