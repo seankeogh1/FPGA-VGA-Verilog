@@ -5,9 +5,8 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences. 
-
-I am adding a test sentence here at 13:24 on 03/12/24.
+For thid project I made the VGA port display colours on the screen. I started by adding the code that switched from dingle colours at intervals on the screen to then the colour stripes which 
+displayed multiple colours at once in columns on the scren.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
