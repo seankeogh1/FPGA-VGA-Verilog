@@ -10,6 +10,7 @@ This included initializing a clock aswell.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
+As I mentioned above, I chose to make the s from shrek as my project. To begin I looked at the basic template of the colour stripes and how the code was working. I saw that it was split up into columns and these columns were of even width. I first started to just change the rgb colour codes and see what would happen this quiclkly helped me understand how the code controls how much of each colour will be used. After getting an understading of the rows columns and the colours I started small by seeing if I could display a black corner to start my project and give me a foundation. I used rows and columns and i split my pixels into bigger 25x25 size.
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 To setup this project I included the test bench and the source files given to us by our lecturer. For the first exercise I had to update the clock
 
