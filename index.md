@@ -45,7 +45,13 @@ This image had already included a grid in it so I decided to make it 25 x 25 pix
 <img src="docs/assets/images/shrek s online.png">
 
 ### **Code Adaptation**
-Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
+The sample code we were given for the colour stripes included columns. My project needed columns. Rows were included in the VGA Top code so thankfully all I had to do was include the rows in my code.
+I first played around with the colour stripes code to get a better understanding of it and how using the 4  bit binary in the rgb can make different colours. My project only included 4 colours, the white background, light green, dark green and black. I got lucky and the two greens I used were the first I tried. Once I got an understanding of the columns I added the rows and began making my project. 
+
+It took me a while to get the hang of it but i made the 25 x 25 grid by adding 25 starting from 0:25 and 0:25  which would be the top left corner of the grid. I used if else statements to change every square I needed to in the grid and the default background was white. I will include a sample of my code to give you a visual understanding.
+
+<img src="docs/assets/images/Code.png">
+
 ### **Simulation**
  It took longer and loner to generate the bitstream as I went on with my project as the code was growing so I would only be able to see my changes after a long period of time, this was not ideal if I made a mistake as I wouldnt realise for a while. It is important to make sure the code you are writing is correct. I will include a picture of my hardware manager while running a simulation
 ### **Synthesis**
