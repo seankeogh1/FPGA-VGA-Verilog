@@ -24,6 +24,9 @@ There was also different simulation sources such as VGA top and vga sync. VGA to
 
 <img src="docs/assets/images/VGAtop.png">
 
+#### **VGA Sync**
+
+<img src="docs/assets/images/VGAsync.png">
 
 ### **Simulation**
 
