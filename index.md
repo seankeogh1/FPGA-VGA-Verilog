@@ -41,6 +41,9 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 ## **My VGA Design Edit**
 For my VGA design I decided to make the S from shrek. I chose this as I saw it as challenging but acheiveable. I found an image online and deicded to use it as a baseline to base my design around.
 This image had already included a grid in it so I decided to make it 25 x 25 pixel grid as that would suit my project based on the display being 640 x 480.
+
+<img src="docs/assets/images/shrek s online.png">
+
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 ### **Simulation**
