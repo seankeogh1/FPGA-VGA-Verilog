@@ -15,12 +15,12 @@ For the first exercise I had to generate the clock. we did this using the ip cat
 
 <img src="docs/assets/images/project summary.png">
 
-#### **Template Code**
+### **Template Code**
 Our leturer gave us a template code for a colour stripes display. At first I looked at this code and had no idea what any of it meant as you would expect, but it didnt take long for me to gain an understanding.
 This code included columns of an even width that displayed all different colours. I first started editing the rgb outputs to see what colours would be displayed and quickly learned that you can include more or less of the colours using the 4 bit binary code, This also meant you could mix colours to create others such as red and green to make yellow in many different shades based on how much red or green.
 There was also different simulation sources such as VGA top and vga sync. VGA top included code to declare rows and columns and vga sync included code for the timers. I will include screenshots of both below.
 
-### **VGA Top**
+#### **VGA Top**
 
 <img src="docs/assets/images/VGAtop.png">
 
