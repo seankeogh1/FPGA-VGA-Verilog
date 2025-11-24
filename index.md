@@ -10,14 +10,15 @@ This included initializing a clock aswell.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
-I began my project by opening an existing file in vivado and renaming it to my project. This helped build a foundation to work off of.
-As I mentioned above, I chose to make the s from shrek as my project. To begin I looked at the basic template of the colour stripes and how the code was working. I saw that it was split up into columns and these columns were of even width. I first started to just change the rgb colour codes and see what would happen this quiclkly helped me understand how the code controls how much of each colour will be used. After getting an understading of the rows columns and the colours I started small by seeing if I could display a black corner to start my project and give me a foundation. I used rows and columns and i split my pixels into bigger 25x25 size. The first execise given to us was the clock. I will include a screenshot of my project summary below.
-
+I began my project by creating a new Vivado project. I included source files and a testbench given to me by my lecturer. This was really helpful to build a foundation to work off of.
+For the first exercise I had to generate the clock. we did this using the ip catalog and set it to 25MHz. I will include an image of my project summary below.
 
 <img src="docs/assets/images/project summary.png">
-<img src="https://raw.githubusercontent.com/seankeogh1/FPGA-VGA-Verilog/main/docs/assets/images/CodeChanged.png">
 ### **Template Code**
-Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
+Our leturer gave us a template code for a colour stripes display. At first I looked at this code and had no idea what any of it meant as you would expect, but it didnt take long for me to gain an understanding.
+This code included columns of an even width that displayed all different colours. I first started editing the rgb outputs to see what colours would be displayed and quickly learned that you can include more or less of the colours using the 4 bit binary code, This also meant you could mix colours to create others such as red and green to make yellow in many different shades based on how much red or green.
+There was also different simulation sources such as VGA top and vga sync. VGA top included code to declare rows and columns and vga sync included code for the timers. I will include screenshots of both below.
+#*VGA Top*
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
 ### **Synthesis**
