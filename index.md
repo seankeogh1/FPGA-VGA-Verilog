@@ -5,8 +5,8 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-For this project, I made the VGA port display colours on the screen. I started by adding the code that switched from dingle colours at intervals on the screen to then the colour stripes which 
-displayed multiple colours at once in columns on the scren.
+For this project I chose an image that I wanted to display on the screen, for my image i chose the S from Shrek. I started by opening the colour stripes code we had gotten as a sample and adapted it to my own.
+This included initializing a clock aswell.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
