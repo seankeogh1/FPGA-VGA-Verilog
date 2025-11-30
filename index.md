@@ -54,15 +54,19 @@ It took me a while to get the hang of it but i made the 25 x 25 grid by adding 2
 
 ### **Simulation**
  It took longer and loner to generate the bitstream as I went on with my project as the code was growing so I would only be able to see my changes after a long period of time, this was not ideal if I made a mistake as I wouldnt realise for a while. It is important to make sure the code you are writing is correct. I will include a picture of my hardware manager while running a simulation.The simulation was important to make sure I wasnt making any mistakes with my code, running it every once in a while made it easy to see the changes being made.
-<img src ="">
+<img src ="docs/assets/images/Simulation.png">
 
 ### **Synthesis**
-Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+I decided on the S as I am very indicicive and wanted to just focus on choosing something that seemed posible given the time and task.
+I am happy I chose it, I think it came out better than i expected. I only used three quarters of the screen because it was a square and the screen is a rectangle.
+It still worked out perfect and I am happy with the end result.
+
+I First started on the black outline of the S on the second week. As the first week I started a bit of everything. After making the outline I was well used to it and the filling in became easy.
 
 ### **Demonstration**
 This is my finished design. I will show the pictures from lab 1 and 2 also.
 
-####**Week1**
+##**Week1**
 <img src="docs/assets/images/week 1 s.jpg">
 
 ## **Week2**
