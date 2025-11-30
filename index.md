@@ -59,7 +59,12 @@ It took me a while to get the hang of it but i made the 25 x 25 grid by adding 2
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
 This is my finished design. I will show the pictures from lab 1 and 2 also.
-
+## **Week1**
+<img src="docs/assets/images/week 1 s.jpg">
+## **Week2**
+<img src="docs/assets/images/Wee2s.jpg">
+## **Finished Project Week 3**
+<img src="docs/assets/images/finisheds.jpg">
 
 
 
