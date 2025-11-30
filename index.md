@@ -33,9 +33,6 @@ There was also different simulation sources such as VGA top and vga sync. VGA to
 ### **Simulation**
 I first simulated the colour stripes to see how it was done. To simulate I saved the edited code and generated a bitstream. I connected the board to the monitor using a VGA cable and also connected the board to the PC to allow me to program it. After doing this the bitstream was generated so I would be able to open and connect to the board before programming it. Once i programmed the board the monitor displayed the colour stripes.
 Once the first simulation was complete I could edit the code, save it, re-generate the bitstream and then re-program the device before seeing changes.
-### **Synthesis**
-
-Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 ### **Demonstration**
 
 ## **My VGA Design Edit**
@@ -54,6 +51,7 @@ It took me a while to get the hang of it but i made the 25 x 25 grid by adding 2
 
 ### **Simulation**
  It took longer and loner to generate the bitstream as I went on with my project as the code was growing so I would only be able to see my changes after a long period of time, this was not ideal if I made a mistake as I wouldnt realise for a while. It is important to make sure the code you are writing is correct. I will include a picture of my hardware manager while running a simulation.The simulation was important to make sure I wasnt making any mistakes with my code, running it every once in a while made it easy to see the changes being made.
+ 
 <img src ="docs/assets/images/Simulation.png">
 
 ### **Synthesis**
@@ -66,7 +64,7 @@ I First started on the black outline of the S on the second week. As the first w
 ### **Demonstration**
 This is my finished design. I will show the pictures from lab 1 and 2 also.
 
-##**Week1**
+## **Week1**
 <img src="docs/assets/images/week 1 s.jpg">
 
 ## **Week2**
