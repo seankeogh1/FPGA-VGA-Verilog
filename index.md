@@ -53,26 +53,17 @@ It took me a while to get the hang of it but i made the 25 x 25 grid by adding 2
 <img src="docs/assets/images/Code.png">
 
 ### **Simulation**
- It took longer and loner to generate the bitstream as I went on with my project as the code was growing so I would only be able to see my changes after a long period of time, this was not ideal if I made a mistake as I wouldnt realise for a while. It is important to make sure the code you are writing is correct. I will include a picture of my hardware manager while running a simulation
+ It took longer and loner to generate the bitstream as I went on with my project as the code was growing so I would only be able to see my changes after a long period of time, this was not ideal if I made a mistake as I wouldnt realise for a while. It is important to make sure the code you are writing is correct. I will include a picture of my hardware manager while running a simulation.The simulation was important to make sure I wasnt making any mistakes with my code, running it every once in a while made it easy to see the changes being made.
+<img src ="">
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
-If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
+This is my finished design. I will show the pictures from lab 1 and 2 also.
 
-## **More Markdown Basics**
-This is a paragraph. Add an empty line to start a new paragraph.
 
-Font can be emphasised as *Italic* or **Bold**.
 
-Code can be highlighted by using `backticks`.
 
-Hyperlinks look like this: [GitHub Help](https://help.github.com/).
 
-A bullet list can be rendered as follows:
-- vectors
-- algorithms
-- iterators
 
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
